@@ -89,13 +89,6 @@
 			<div class="grid grid-cols-4 auto-rows-auto gap-3 p-3">
 				<h1 class="font-bold text-xl flex items-center gap-6">
 					Settings
-					<a
-						class="text-xs text-current"
-						href="https://github.com/0ql/Coffeetyper-Svelte"
-						target="_blank"
-					>
-						Github
-					</a>
 				</h1>
 
 				<h2 class="text-base font-normal m-0 col-span-4">Font Family</h2>

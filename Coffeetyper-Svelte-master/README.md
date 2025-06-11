@@ -1,13 +1,9 @@
 <p align="center" style="margin-top: 100px"><br>
-  <img src="https://raw.githubusercontent.com/0ql/Coffeetyper-Svelte/master/public/static/icon.svg" width="22%"/>
   <br>
 </p>
 
-# Coffeetyper
 
-### What is Coffeetyper?
-
-[Coffeetyper](https://coffeetyper.com) is a minimalistic and lightweight typingtest inspired by [Monkeytype](https://monkeytype.com).
+TYPING SPEED TESTER
 
 ### Features
 
@@ -39,21 +35,6 @@
 
 - All settings apply in realtime; no need to reload
 
-### Usage
-
-To open the Settings move your mouse to the left of the screen.
-
-![](https://i.imgur.com/PpnKinI.png) 
-
-To switch the theme move your mouse to the right of the screen.
-
-![](https://i.imgur.com/CVHuT6F.png)
-
-![](https://i.imgur.com/db2T4DA.png)
-
-![](https://i.imgur.com/az53ftv.png)
-
-![](https://i.imgur.com/JvtXpVq.png)
 
 ### Calculation of WPM/SPM
 
@@ -63,7 +44,7 @@ The WPM are calculated by taking the amount of correctly written symbols per min
 
 Coffeetyper is written in [Svelte](https://svelte.dev) with Typescript and uses Windicss in conjuction with Postcss. 
 
-### Should you use Coffeetyper?
+### Should you use TYPING SPEED TESTER?
 
 It still lacks some features and isn't so feature rich as Monkeytype. But it provides the most important functions and statistics of a typing test and is definitely useable.
 
